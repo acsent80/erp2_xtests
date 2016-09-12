@@ -1,0 +1,7 @@
+﻿8b2248bb-3880-4209-8f8a-59222e59a912.0\info-->und\8b2248bb-3880-4209-8f8a-59222e59a912.0\info
+8b2248bb-3880-4209-8f8a-59222e59a912.0\text-->ObjectModule.bsl
+9313500c-b295-4a04-9d90-bca0872f4733-->und\9313500c-b295-4a04-9d90-bca0872f4733
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions

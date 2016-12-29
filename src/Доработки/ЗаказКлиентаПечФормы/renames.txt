@@ -7,6 +7,8 @@
 39353492-d965-496c-960d-74228031248e.0\text-->ObjectModule.bsl
 a9eb03b0-d94f-4769-bc84-561d08f45434-->und\a9eb03b0-d94f-4769-bc84-561d08f45434
 a9eb03b0-d94f-4769-bc84-561d08f45434.0-->und\a9eb03b0-d94f-4769-bc84-561d08f45434.0
+add567e4-dcb6-441b-9b7b-4ddc60d55cb4-->und\add567e4-dcb6-441b-9b7b-4ddc60d55cb4
+add567e4-dcb6-441b-9b7b-4ddc60d55cb4.0-->und\add567e4-dcb6-441b-9b7b-4ddc60d55cb4.0
 copyinfo-->und\copyinfo
 root-->und\root
 version-->und\version

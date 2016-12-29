@@ -7,9 +7,9 @@ Tel: 123456-112334, fax: 4443456-112334"				"Покупатель (Авто-те
 Tel: 1111-2222, Fax: 2222-3333."				
 									
 	Consignee:								
-	Покупатель (Авто-тест). Commercial Registration No.. Address: 112000, РФ, Москва, ул. Парижской Коммуны, 4.								
+	Покупатель (Авто-тест). Address: 112000, РФ, Москва, ул. Парижской Коммуны, 4								
 	Currency:	Terms of delivery:		Shipping date:		Terms of payment:			
-	руб.	DAP		December 2016		50%-prepayment and 50% before shipping.			
+	руб.	DAP		December 2016		100%-prepayment			
 	All the payments are to be transferred to the Seller's bank account.								
 	BTN Code	Article					"Quantity,
 cbm"	Unit price	Value

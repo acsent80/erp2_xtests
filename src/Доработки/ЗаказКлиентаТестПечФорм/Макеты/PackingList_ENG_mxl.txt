@@ -1,8 +1,8 @@
 ﻿					PAKING LIST		АВ00-000002		
 					DATE OF PAKING LIST:		31 December 2016		
-					CONTRACT №:			DATED	
+					CONTRACT №:		ABC01	DATED	01 January 2017
 	Seller:				Buyer:				
-	"Name Eng, Russia, Gremyachinsk.
+	"Company LLC, .
 Tel: 123456-112334, fax: 4443456-112334"				"Покупатель (Авто-тест). Commercial Registration No.. Address: 112000, РФ, Москва, ул. Парижской Коммуны, 4
 Tel: 1111-2222, Fax: 2222-3333."				
 									
@@ -12,7 +12,7 @@ Tel: 1111-2222, Fax: 2222-3333."
 	Description of Goods:								
 	BTN Code	Article				Colli	"Quantity,
 cbm"	Netto, kg	Brutto, kg
-	00-00000513	Продукция ENG (Характеристика 1)				5	2,500	250,00	375,00
+	00-00000520	Продукция ENG (Характеристика 1)				5	2,500	250,00	375,00
 	TOTAL:					5	2,500	250,00	375,00
 	Additional  information:								
 	No								

@@ -1,8 +1,8 @@
 ﻿					INVOICE		АВ00-000002		
 					DATE OF INVOICE:		27 December 2016		
-					CONTRACT №:			DATED	
+					CONTRACT №:		ABC01	DATED	01 January 2017
 	Seller:				Buyer:				
-	"Name Eng, Russia, Gremyachinsk.
+	"Company LLC, .
 Tel: 123456-112334, fax: 4443456-112334"				"Покупатель (Авто-тест). Commercial Registration No.. Address: 112000, РФ, Москва, ул. Парижской Коммуны, 4
 Tel: 1111-2222, Fax: 2222-3333."				
 									
@@ -10,10 +10,10 @@ Tel: 1111-2222, Fax: 2222-3333."
 	Покупатель (Авто-тест). Address: 112000, РФ, Москва, ул. Парижской Коммуны, 4								
 	Currency:	Terms of delivery:		Shipping date:		Terms of payment:			
 	руб.	DAP		December 2016		100%-prepayment			
-	All the payments are to be transferred to the Seller's bank account.								
+									
 	BTN Code	Article					"Quantity,
 cbm"	Unit price	Value
-	00-00000513	Продукция ENG (Характеристика 1)					2,500	1 000,00	2 500,00
+	00-00000520	Продукция ENG (Характеристика 1)					2,500	1 000,00	2 500,00
 	TOTAL:						2,500		2 500,00
 	Special conditions:								
 	No special conditions								
@@ -22,12 +22,13 @@ cbm"	Unit price	Value
 									
 									
 	All the payments are to be transferred to the Seller's bank account:								
-	"Beneficiary Bank: Commercial Bank ""OBRAZOVANIE"". 119296, Leninskiy orospekt, 63/2, building 1, Moscow, Russia.
-Intermediary Bank: REIFFEISEN RAIFFEISEN BANK INTERNATIONAL AG, 9 Am Stadtpark, Vienna, Austria.
-SWIFT CODE: RZBAATWW, Commercial Bank ""OBRAZOVANIE""
-Correspondent account number: 07055078539,
-Transit account: 40702840900120006177.
-Beneficiary’s account: 40702840900120006177, Beneficiary’s name: Name Eng."								
+	Beneficiary Bank:		"SWIFT: OBCORUMM, Commercial Bank ""OBRAZOVANIE""
+119296, Leninskiy orospekt, 63/2, building 1, Moscow, Russia"						
+	Intermediary Bank:		"SWIFT: RZBAATWW, REIFFEISEN RAIFFEISEN BANK INTERNATIONAL AG
+9 Am Stadtpark, Vienna, Austria"						
+	Correspondent account in Intermediary Bank:		07055078539						
+	Beneficiary Customer:		Company LLC						
+	Beneficiary’s account:		40702840900120006177						
 
 
 

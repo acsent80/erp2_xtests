@@ -1,6 +1,6 @@
 ﻿					INVOICE		АВ00-000002		
 					DATE OF INVOICE:		27 December 2016		
-					CONTRACT №:		ABC01	DATED	01 January 2017
+					CONTRACT №: ABC01 DATED 01.01.2017				
 	Seller:				Buyer:				
 	"Company LLC, .
 Tel: 123456-112334, fax: 4443456-112334"				"Покупатель (Авто-тест). Commercial Registration No.. Address: 112000, РФ, Москва, ул. Парижской Коммуны, 4

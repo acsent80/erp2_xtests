@@ -9,12 +9,11 @@ Tel: 1111-2222, Fax: 2222-3333."
 	Consignee:								
 	Покупатель (Авто-тест). Address: 112000, РФ, Москва, ул. Парижской Коммуны, 4								
 	Currency:	Terms of delivery:		Shipping date:		Terms of payment:			
-	руб.	DAP		December 2016		100%-prepayment			
+	RUB	DAP		December 2016		100%-prepayment			
 									
-	BTN Code	Article					"Quantity,
-cbm"	Unit price	Value
-	00-00000520	Продукция ENG (Характеристика 1)					2,500	1 000,00	2 500,00
-	TOTAL:						2,500		2 500,00
+	BTN Code	Article				Quantity	Unit	Unit price	Value
+	00-00000520	Продукция ENG (Характеристика 1)				2,500	PCE	1 000,00	2 500,00
+	TOTAL:					2,500			2 500,00
 	Special conditions:								
 	No special conditions								
 									

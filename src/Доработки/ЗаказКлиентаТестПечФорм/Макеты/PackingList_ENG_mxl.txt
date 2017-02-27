@@ -1,4 +1,4 @@
-﻿					PAKING LIST		АВ00-000002		
+﻿					PAKING LIST АВ00-000002				
 					DATE OF PAKING LIST:		31 December 2016		
 					CONTRACT №: ABC01 DATED 01.01.2017				
 	Seller:				Buyer:				
@@ -10,10 +10,9 @@ Tel: 1111-2222, Fax: 2222-3333."
 	Покупатель (Авто-тест). Address: 112000, РФ, Москва, ул. Парижской Коммуны, 4								
 									
 	Description of Goods:								
-	BTN Code	Article				Colli	"Quantity,
-cbm"	Netto, kg	Brutto, kg
-	00-00000520	Продукция ENG (Характеристика 1)				5	2,500	250,00	375,00
-	TOTAL:					5	2,500	250,00	375,00
+	BTN Code	Article			Colli	Quantity	Unit	Netto, kg	Brutto, kg
+	00-00000520	Продукция ENG (Характеристика 1)			5	2,500	PCE	250,00	375,00
+	TOTAL:				5	2,500		250,00	375,00
 	Additional  information:								
 	No								
 									
